@@ -7,3 +7,5 @@ de una aplicación que, en el futuro, podría administrar tareas y notas persona
 • Autor: Roberto Valderrama
 
 Estado: Actualizado
+
+## Colaboración
