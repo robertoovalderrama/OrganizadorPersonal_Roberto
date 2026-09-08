@@ -5,3 +5,5 @@ de una aplicación que, en el futuro, podría administrar tareas y notas persona
 • Pasos de instalación: Instalar dependencias de requirements.txt
 • Dependencias: Revisar requirements.txt
 • Autor: Roberto Valderrama
+
+Estado: Actualizado
