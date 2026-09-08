@@ -3,3 +3,4 @@
 • Modificar tareas.
 • Marcar tareas como terminadas.
 • Registrar notas.
++ Apuntes
